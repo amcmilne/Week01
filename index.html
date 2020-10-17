@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="../Week_01/assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
     <title>Horiseon Social Solution Services</title>
 </head>
 
